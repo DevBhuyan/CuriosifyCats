@@ -1,2 +1,5 @@
-Flask
-Gunicorn
+firebase-admin==6.2.0
+Flask==2.3.3
+pickleshare==0.7.5
+pip==23.2.1
+pandas

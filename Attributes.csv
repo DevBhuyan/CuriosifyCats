@@ -1,0 +1,48 @@
+Topic,Domain,Expertise Required,Industry Relevance,Possible career
+Nanotechnology,Physics/Biology,Advanced/Expert,"Healthcare, Research, Science",scientist
+Database,Computer Science,Intermediate/Advanced/Expert,"Technology, Datascience","software, ai, ml, dataScientist, computerEngineer"
+Software Engineering,Computer Science,Intermediate/Advanced/Expert,"Technology, Startups","software, computerEngineer"
+Quantum Physics,Physics,Advanced/Expert,"Technology, Energy, Research",scientist
+Web Technologies,Computer Science,Intermediate/Advanced/Expert,Technology,"software, computerEngineer"
+Physics,Physics,Beginner/Intermediate/Advanced,Science,student
+Chemistry,Chemistry,Beginner/Intermediate/Advanced,Science,student
+Blender,"Computer Science, Design",Intermediate/Advanced/Expert,"UI, 3D, Modelling, Design","student, designer"
+Electrical engineering,"Electrical Engineering, Physics",Intermediate/Advanced/Expert,"Physics, Science, Engineering","student, engineer"
+AutoCAD,"Civil Engineering, Mechanical Engineering, Design, Computer Science",Intermediate/Advanced/Expert,"UI, 3D, Modelling, Design, Construction","designer, engineer"
+Python,Computer Science,Beginner/Intermediate/Advanced,"Technology, Datascience","student, computerEngineer, dataScientist, software, ai, ml"
+Programming,Computer Science,Beginner/Intermediate/Advanced,Technology,"computerEngineer, software"
+Mathematics,Mathematics,Beginner/Intermediate/Advanced,"Science, Research","scientist, student"
+Civil engineering,Civil Engineering/Construction,Beginner/Intermediate/Advanced,"Engineering, Construction",engineer
+Machine Learning,Computer Science,Intermediate/Advanced/Expert,"Technology, Datascience","software, ai, ml, dataScientist"
+Architecture,Civil Engineering/Construction/Design,Intermediate/Advanced/Expert,Construction,"designer, engineer"
+Biology,Biology,Beginner/Intermediate/Advanced,"Healthcare, Research, Science","doctor, scientist"
+Science,Science,Beginner/Intermediate/Advanced,Education,student
+Engineering Mechanics,"Mechanical Engineering, Physics",Intermediate/Advanced/Expert,Engineering,engineer
+3D Printing,"Mechanical Engineering, Design, Physics",Advanced/Expert,"UI, 3D, Modelling, Design","student, engineer"
+Engineering Drawing,"Mechanical Engineering, Design, Construction",Intermediate/Advanced/Expert,"Engineering, Construction",engineer
+Fluid Mechanics,"Mechanical Engineering, Physics",Intermediate/Advanced/Expert,Engineering,engineer
+Computational Mechanics,"Mechanical Engineering, Physics",Advanced/Expert,Engineering,engineer
+Thermodynamics,Physics,Intermediate/Advanced/Expert,"Education, Engineering","student, engineer, scientist"
+DSA,Computer Science,Beginner/Intermediate/Advanced,Technology,"student, computerEngineer, software"
+Manufacturing Technology,"Mechanical Engineering, Physics",Intermediate/Advanced/Expert,"Research, Engineering","student, engineer"
+Computer architecture,"Computer Science, Electronics",Intermediate/Advanced/Expert,Technology,"student, computerEngineer"
+Computer-Aided Design,Computer Science,Advanced/Expert,"UI, 3D, Modelling, Design, Construction","designer, engineer"
+VLSI Design,Electronics,Advanced/Expert,Technology,"engineer, scientist"
+Electronics,Electronics,Intermediate/Advanced/Expert,Technology,"engineer, student"
+Astronomy,Physics,Intermediate/Advanced/Expert,"Aerospace, Science, Engineering","enthusiast, scientist"
+MS Excel,Computer Science,Beginner/Intermediate/Advanced,"Technology, Datascience","software, dataScientist, student"
+Cybersecurity,Computer Science,Intermediate/Advanced/Expert,Technology,"computerEngineer, software"
+Java,Computer Science,Beginner/Intermediate/Advanced,Technology,"computerEngineer, software"
+JavaScript,Computer Science,Beginner/Intermediate/Advanced,Technology,"computerEngineer, software"
+Biotechnology,Biotechnology/Biology,Advanced/Expert,"Technology, Research, Medical",scientist
+Mechanical Engineering,Mechanical Engineering,Intermediate/Advanced/Expert,"Technology, Engineering",engineer
+PowerPoint,Computer Science,Beginner/Intermediate/Advanced,"Technology, Business","computerEngineer, software, business"
+GPT,Computer Science,Intermediate/Advanced/Expert,"Technology, Datascience","computerEngineer, scientist"
+Computer Science,Computer Science,Beginner/Intermediate/Advanced,Technology,computerEngineer
+Cloud Computing,Computer Science,Intermediate/Advanced/Expert,Technology,computerEngineer
+Linux,Computer Science,Advanced/Expert,Technology,computerEngineer
+Agriculture science,"Food, Agriculture",Intermediate/Advanced/Expert,"Food, Research",scientist
+Food science and Technology,Food,Intermediate/Advanced/Expert,"Food, Technology","engineer, scientist"
+Graphic Design,"Computer Science, Design",Beginner/Intermediate/Advanced,"Technology, Design","designer, engineer"
+Figma,"Computer Science, Design",Intermediate/Advanced/Expert,"Technology, Design","designer, engineer"
+Data Science,"Computer Science, Design",Intermediate/Advanced/Expert,"Technology, Datascience","dataScientist, software, computerEngineer"
